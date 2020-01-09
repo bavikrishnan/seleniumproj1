@@ -35,6 +35,7 @@ public class ChromeLaunch {
 		   System.out.println(driver3.getTitle());
 		   System.out.println("Browser Closing....");
            driver3.close();
+           System.out.println("");
 		}
 
 	
